@@ -1,7 +1,7 @@
 Hi 👋 My name is Matheus Bazei Benetti
 ======================================
 
-Junior Back-end Developer
+Back-end Developer
 -------------------------
 
 I've been studying and working with Node.js for the last 2 years doing projects with Express, NestJs and MongoDB, and in my free time I do some projects using Node and Asp.Net for a Startup.
