@@ -9,7 +9,7 @@ I've been studying and working with Node.js for the last 2 years doing projects 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [mbbenetti1@gmail.com](mailto:mbbenetti1@gmail.com)
 * 🚀  I'm currently working on [White Mirror Solutions](http://whitemirrorsolutions.com/)
-* 🧠  I'm learning Node.js, NestJS and Go
+* 🧠  I'm learning Java and Go
 
 ### Skills
 
